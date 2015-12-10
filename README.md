@@ -1,4 +1,5 @@
-# vulpix
+![Team Vulpix](vulpix.png "Team Vulpix")
+# Team Vulpix
 
 ## CS109 Anime Analysis (Dylan, Kelwen, Tiffany, Le (Tuongvan))
 
