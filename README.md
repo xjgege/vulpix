@@ -2,7 +2,7 @@
 
 ![Team Vulpix](vulpix.png "Team Vulpix")
 
-## CS109 Anime Analysis (Dylan, Kelwen, Tiffany, Le (Tuongvan))
+## CS109 Anime Analysis [Dylan, Kelwen, Tiffany, Le (Tuongvan)]
 
 ### Motivation 
 
@@ -15,7 +15,7 @@ Our results and finding are summarized at [Team Vulpix's website](http://cs109-a
 
 ### Video
 
-Video summary of our process and findings [here](www.youtube.com)
+Video summary of our process and findings [here](https://www.youtube.com/watch?v=NC3bFaDbESo&feature=youtu.be)
 
 ### Github
 
